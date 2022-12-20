@@ -1,1 +1,2 @@
 import Hassan
+Hassan.menu()
